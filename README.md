@@ -17,8 +17,8 @@ Finally, the result is presented in a DataFrame (a table format) using Python's 
 
 ----
 
-**How the Code Works
-**
+**How the Code Works**
+
 Here’s a high-level overview of the code and what it does:
 
 Step 1: It reads a CSV file with flight data, simulating how Brightics would connect to and fetch data from the internal database (BDPDPR).
@@ -32,8 +32,8 @@ Step 4: The counts are aggregated, and a total row is added to summarize the dat
 Step 5: Finally, the processed data is printed, showing the count of flights for each terminal and the total count.
 
 ----
-**How You Can Use It
-**
+**How You Can Use It**
+
 Simulated Data: You can replace the mock dataset (mock_flight_data.csv) with your actual data from Brightics or any other database.
 
 Customization: If you have different terminal codes or need to adjust the aggregation, you can modify the function that maps terminal codes or tweak how the data is grouped.
@@ -42,8 +42,8 @@ Automated Workflow: In a production environment, this same code can be run on th
 
 ----
 
-**Key Takeaways
-**
+**Key Takeaways**
+
 No need for manual data entry: The workflow automates data aggregation, reducing the chance for human error and improving efficiency.
 
 Data transformation: Mapping raw data to useful formats allows for better insights and clearer reporting.
@@ -51,6 +51,6 @@ Data transformation: Mapping raw data to useful formats allows for better insigh
 Scalable: The workflow is scalable and can handle larger datasets, making it suitable for enterprise-level applications.
 
 ----
-**Conclusion
-**
+**Conclusion**
+
 In this project, I’ve demonstrated how to automate the process of pulling, transforming, and aggregating flight data. Although the actual data comes from an internal database, this mock version simulates how you would use Brightics to handle such tasks. This saves time, ensures accuracy, and allows for more data-driven decision-making.
