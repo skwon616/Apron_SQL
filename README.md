@@ -15,6 +15,8 @@ The transformed data is then grouped by terminal codes and counted. This means t
 Data Presentation
 Finally, the result is presented in a DataFrame (a table format) using Python's pandas library. The data can then be easily used for further analysis or visualized using tools like Power BI or Tableau.
 
+---
+
 How the Code Works
 
 Here’s a high-level overview of the code and what it does:
