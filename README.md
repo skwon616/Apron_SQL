@@ -1,4 +1,4 @@
-# Apron_SQL
+# Count with SQL
 **Automating Data Aggregation Workflow on Brightics Platform**
 
 In this project, I developed a data aggregation workflow using Brightics — an internal data analytics platform. The goal was to automate the process of collecting and processing flight data, and then summarizing it for better decision-making. Here's a step-by-step breakdown of the process:
